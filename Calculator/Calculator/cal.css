@@ -1,0 +1,28 @@
+.center{
+    text-align: center;
+    /* background-color: darkgray; */
+    
+}
+.bg{
+    
+    padding: 20px ;
+    padding-left: 20px;
+    padding-right: 2px;
+    border-radius: 20px;
+
+}  
+
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+
+
